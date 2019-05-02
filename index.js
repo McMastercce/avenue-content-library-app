@@ -1,3 +1,6 @@
+window.databaseHost = 'mcmastercce';
+window.databaseRepoPath = 'avenue-content-library-database';
+
 document.getElementById('content-library').innerHTML = '<app-root></app-root>';
 
 var script1 = document.createElement("script");
